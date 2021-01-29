@@ -4,7 +4,7 @@
 # Nelson Araújo
 
 ## Olá pessoal 👋
-Eu sou desenvolvedor Front-end e adoro aprendizagem continua.<br/>
+Eu sou desenvolvedor Front-end e adoro aprendizagem contínua.<br/>
 Atualmente estou estudando e trabalhando com Javascript utilizando os Frameworks ReactJS, React Native.:computer:
 
  :rocket:  &nbsp; A procura de novos projetos :rocket:
